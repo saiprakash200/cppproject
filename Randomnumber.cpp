@@ -18,7 +18,7 @@ int main()
     else if(number<n)
     {
         cout<<"Your guess number is low : "<<endl;
-        chance++;
+        chance=chance+1;
     }
     else
     {
