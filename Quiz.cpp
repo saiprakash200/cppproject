@@ -22,7 +22,7 @@ int main()
         {
             cout<<option[i][j]<<endl;
         }
-        cout<<"Enter Your choice : "<<endl;
+        cout<<"Enter Your choice number : "<<endl;
         cin>>choice;
         choice=toupper(choice);
         if(choice==key[i])
