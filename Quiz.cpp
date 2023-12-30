@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    cout<<"WELCOME TO QUIZ "<<endl;
     char choice;
     int score=0;
     string ques[5]={"1.In which year c++ programming was invented ?",
