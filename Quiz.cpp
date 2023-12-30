@@ -28,7 +28,7 @@ int main()
         if(choice==key[i])
         {
             cout<<"Correct answer !! "<<endl;
-            score++;
+            score=score++;
         }
         else
         {
