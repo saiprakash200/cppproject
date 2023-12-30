@@ -23,6 +23,7 @@ int main()
             cout<<option[i][j]<<endl;
         }
         cout<<"Enter Your guess option : "<<endl;
+        cout<<"Enter Your option number : "<<endl;
         cin>>choice;
         choice=toupper(choice);
         if(choice==key[i])
